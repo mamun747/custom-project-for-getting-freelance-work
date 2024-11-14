@@ -54,14 +54,14 @@ function Card5() {
                               {content2}
                             </span>
                           )}
-                          <div className="flex gap-2">
+                          <div className="flex lg:gap-2 flex-wrap">
                           {Example && (
-                            <span className="text-[#1d1d24] pt-[15px] pb-[15px] font-[400]">
+                            <span className="text-[#1d1d24] lg:pt-[15px] lg:pb-[15px] font-[400]">
                               {Example}
                             </span>
                           )}
                           {content3 && (
-                            <a className="pt-[15px] pb-[15px] font-[400] text-[#ca3c08] no-underline cursor-pointer">
+                            <a className="lg:pt-[15px] lg:pb-[15px] font-[400] text-[#ca3c08] no-underline cursor-pointer">
                               {content3}
                             </a>
                           )}

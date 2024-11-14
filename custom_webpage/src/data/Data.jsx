@@ -240,7 +240,7 @@ export const faq = [
         content1: "You can be presenting any home page instead of splash page. http://localhost:3000 you can showing any page as your you are like. First you have to go index.js page then:",
         content2: "First Step (replace your choose demo page): Example: import Demo form './home/MainDemo' Instead of './home/PortfolioLanding'",
         Example: "Example:",
-        content3: "https://www.dropbox.com/s/ysornwsweh836wi/change-home-page.png?dl=0"
+        content3: "https://www.dropbox.com/s/change-home-page.png?dl=0"
     },
     {
         title: "4. How can I get the customer support?",
