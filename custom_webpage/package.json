@@ -12,6 +12,7 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "clsx": "^2.1.1",
+    "isotope-layout": "^3.0.6",
     "react": "^19.0.0-rc-4d577fd2-20241104",
     "react-bootstrap": "^2.10.5",
     "react-dom": "^19.0.0-rc-4d577fd2-20241104",

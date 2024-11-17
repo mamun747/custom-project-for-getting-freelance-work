@@ -6,120 +6,141 @@ const cards = [
         title: "Main Demo",
         subtitle: "Our Template is perfect for creative agency.All agencies use this template for all purpose.",
         max: "max-w-[400px]",
+        category: "mainDemo"
     },
     {
         img: "/img2.png",
         title: "Main Demo — Dark Version",
         subtitle: "Our Template is perfect for creative agency.All agencies use this template for all purpose.",
         max: "max-w-[400px]",
-        badge: "NEW"
+        badge: "NEW",
+        category: "mainDemoDark"
     },
     {
         img: "/img3.png",
         title: "Interactive Agency",
         subtitle: "Its a modern design with all realted features for creative agencies company.",
         max: "max-w-[420px]",
-        badge: "NEW"
+        badge: "NEW",
+        category: "InteractiveAgency"
     },
     {
         img: "/img4.png",
         title: "Personal Portfolio",
         subtitle: "Its a personal portfolio tamplate thats can be used your Personal useses,  Freelancer, Designer, and Developer etc.",
         max: "max-w-[400px]",
+        category: "PersonalPortfolio"
     },
     {
         img: "/img5.png",
         title: "Creative Agency",
         subtitle: "Its a modern design with all realted features for creative agencies company.",
         max: "max-w-[420px]",
+        category: "CreativeAgency"
     },
     {
         img: "/img6.png",
         title: "Corporate Business",
         subtitle: "Corporate Business is build for new or any startup business company. It has available all section for corporate business agency company and others business purpose.",
         max: "max-w-[420px]",
-        badge: "HOT"
+        badge: "HOT",
+        category: "CorporateBusiness"
     },
     {
         img: "/img7.png",
         title: "Interior Design",
         subtitle: "A interior design comes for new interior agency company. Our can hire your clint by using this template. It has landing page feature available.",
         max: "max-w-[420px]",
-        badge: "NEW"
+        badge: "NEW",
+        category: "InteriorDesign"
     },
     {
         img: "/img8.png",
         title: "Personal Portfolio 02 — One Page",
         subtitle: "It comes with landing page feature. This tamplate you can be used for your Personal useses,  Freelancer, Designer, and Developer etc.",
         max: "max-w-[420px]",
-        badge: "HOT"
+        badge: "HOT",
+        category: "PersonalPortfolio02"
     },
     {
         img: "/img9.png",
         title: "Personal Portfolio — One Page",
         subtitle: "It comes with landing page feature. This tamplate you can be used for your Personal useses,  Freelancer, Designer, and Developer etc.",
         max: "max-w-[420px]",
+        category: "PersonalPortfolio1",
+        badge: "NEW"
     },
     {
         img: "/img10.png",
         title: "Creative Agency 02 — One Page",
         subtitle: "Added creative agency landing page.When you need creative agency landing page you can be use it for your creative agency, Digital agency landing page page.",
         max: "max-w-[420px]",
+        category: "CreativeAgency02",
+        badge: "NEW"
     },
     {
         img: "/img11.png",
         title: "Creative Portfolio",
         subtitle: "Creative Portfolio is a awesome portfolio website demo. By using this you can be build a website for your portfolio",
         max: "max-w-[420px]",
+        category: "CreativePortfolio"
     },
     {
         img: "/img12.png",
         title: "Designer Portfolio",
         subtitle: "Designer POrtfolio is a portfolio website demo for all personal portfolio website. A designer present their works by the designer portfolio home demo..",
         max: "max-w-[420px]",
-        badge: "HOT"
+        badge: "HOT",
+        category: "DesignerPortfolio"
     },
     {
         img: "/img13.png",
         title: "Home Particle — Landing Page",
         subtitle: "Home particle has most feature is particles animation.It can be used for your creative agency, Business agency, Digital agency and so on, And it has Landing page added.",
         max: "max-w-[415px]",
+        category: "HomeParticleLanding"
     },
     {
         img: "/img14.png",
         title: "Minimal Portfolio",
         subtitle: "Its a minimal portfolio template. You can be showing your portfolio perfectly by using this template.",
         max: "max-w-[420px]",
+        category: "MinimalPortfolio"
     },
     {
         img: "/img15.png",
         title: "Digital Agency",
         subtitle: "A Digital Agency template is a nice slider animation, faster loading and all features available for agencies.",
         max: "max-w-[420px]",
+        category: "DigitalAgency"
     },
     {
         img: "/img16.png",
         title: "Business",
         subtitle: "It has available all kinds of features for a Business corporate website.You can be use it for your Business website.",
         max: "max-w-[420px]",
+        category: "Business"
     },
     {
         img: "/img17.png",
         title: "Startup",
         subtitle: "A modern and nice design template that can be all startup agencies for all kinds of startup purpose.",
         max: "max-w-[415px]",
+        category: "Startup"
     },
     {
         img: "/img18.png",
         title: "Paralax Home",
         subtitle: "Its a nice and awesome paralax background image design.You can be use it for Business, Corporate, Degital Agency and other so on.",
         max: "max-w-[420px]",
+        category: "ParalexHome"
     },
     {
         img: "/img19.png",
         title: "Studio Agency",
         subtitle: "It has been used background video and vedio popup.You can use it for all kinds of agencies studio.",
         max: "max-w-[420px]",
+        category: "StudioAgency"
     },
     {
         img: "/img20.png",

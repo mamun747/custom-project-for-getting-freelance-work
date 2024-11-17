@@ -19,7 +19,7 @@ function Card2() {
 
     const itemsPerSlide = screenWidth < 640 ? 1 : screenWidth <= 768 ? 2 : 3;
     const groupedCards = [];
-    for (let i = 0; i < cards2.length; i += itemsPerSlide) {
+    for (let i = 0; i < cards2.length; i++) {
         groupedCards.push(cards2.slice(i, i + itemsPerSlide));
     }
 
